@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev --host 0.0.0.0",
+    "build": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^4.0.0"
+  },
+  "name": "app-example-nuxt-bun"
+}
